@@ -1,9 +1,3 @@
-%Project Stage-I
-%Submitted By:
-%Krishanu Dev Sarma(ECB18006)
-%Himangshu Sarma(ECB18014)
-%Sanjana Singha(ECB18023)
-
 % ********************************Classification************************************
 
 %%Declaration of train & test set
@@ -12,10 +6,10 @@ clear all;
 close all;
 
 %Creating the Train Feature Vector from the Train Dataset
-Train_fv = table2array(importdata('G:\Project Stage-I\train_set\train_dataset2.mat'));
+Train_fv = table2array(importdata('G:\train_dataset2.mat'));
 
 %Creating the Test Feature Vector from Test Dataset
-Test_fv = table2array(importdata('G:\Project Stage-I\test_set\test_dataset2.mat'));
+Test_fv = table2array(importdata('G:\test_dataset2.mat'));
 
 %Labeling the Train and Test Feature Vector
 Train_label = ([ones(1,52), 2*ones(1,12)]).';
