@@ -87,4 +87,4 @@ While MATLAB provides a conducive environment for swift prototyping and implemen
 
 ---
 
-*Note: This blog provides a high-level overview; specific technical details, code snippets, and results would be integrated into a comprehensive blog post for publication.*
+*Note: This readme page provides a high-level overview; specific technical details, code snippets, and results would be integrated into a comprehensive blog post for publication.*
