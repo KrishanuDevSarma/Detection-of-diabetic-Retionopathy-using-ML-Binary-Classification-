@@ -53,32 +53,6 @@ The focus of this project is on detecting Diabetic Retinopathy, a common complic
 
 ---
 
-**4. Pros and Cons of Using MATLAB in Machine Learning:**
-
-**Pros:**
-
-- **Comprehensive Toolbox:**
-  MATLAB provides a rich set of toolboxes for image processing, machine learning, and statistics, streamlining the development process.
-
-- **Ease of Prototyping:**
-  The interactive environment facilitates quick prototyping and experimentation.
-
-- **Strong Community Support:**
-  A supportive community and extensive documentation contribute to problem-solving efficiency.
-
-**Cons:**
-
-- **Cost Implications:**
-  MATLAB is a commercial product, and its licensing costs can be a limiting factor for some users.
-
-- **Performance Concerns:**
-  For very large datasets or computationally intensive tasks, MATLAB's performance might be surpassed by lower-level languages.
-
-- **Learning Curve:**
-  For those unfamiliar with MATLAB, there might be a learning curve, particularly for advanced functionalities.
-
----
-
 **Conclusion:**
 
 As the lens of machine learning focuses on medical applications, the amalgamation of MATLAB and the SVM algorithm emerges as a powerful tool for Diabetic Retinopathy detection. This project is a testament to the transformative potential of machine learning in healthcare.
